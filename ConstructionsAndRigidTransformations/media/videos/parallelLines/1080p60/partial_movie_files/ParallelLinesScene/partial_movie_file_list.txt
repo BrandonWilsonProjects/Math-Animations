@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/parallelLines/1080p60/partial_movie_files/ParallelLinesScene/3529212410_3150476189_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/parallelLines/1080p60/partial_movie_files/ParallelLinesScene/3040924799_471269746_3650883624.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/parallelLines/1080p60/partial_movie_files/ParallelLinesScene/3040924799_2611759093_3129057218.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/parallelLines/1080p60/partial_movie_files/ParallelLinesScene/3040924799_2552855209_1928133948.mp4'

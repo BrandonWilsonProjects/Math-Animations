@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareCorrectRightAngles/3529212410_1084060563_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareCorrectRightAngles/3040924799_3477674639_3844894006.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareCorrectRightAngles/3040924799_2752884385_2123229788.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareCorrectRightAngles/3040924799_426294507_2489518391.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareCorrectRightAngles/3040924799_732165514_2904870165.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareCorrectRightAngles/3040924799_2784522829_1524697880.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareCorrectRightAngles/3040924799_2844360058_1761805085.mp4'

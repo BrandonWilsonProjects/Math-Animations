@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareScene/3529212410_1084060563_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareScene/3040924799_3477674639_3844894006.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareScene/3040924799_2924131856_2123229788.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareScene/3040924799_3486834115_4131044437.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareScene/3040924799_394261820_1675771949.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareScene/3040924799_3286362786_679948146.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/square/1080p60/partial_movie_files/PerfectSquareScene/3040924799_2844360058_1530779506.mp4'

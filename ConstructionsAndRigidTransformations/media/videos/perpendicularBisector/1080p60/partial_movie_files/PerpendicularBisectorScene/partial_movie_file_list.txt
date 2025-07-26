@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/perpendicularBisector/1080p60/partial_movie_files/PerpendicularBisectorScene/3529212410_1174968217_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/perpendicularBisector/1080p60/partial_movie_files/PerpendicularBisectorScene/3040924799_1092499667_2082904951.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/perpendicularBisector/1080p60/partial_movie_files/PerpendicularBisectorScene/3040924799_2525004256_4074427398.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/perpendicularBisector/1080p60/partial_movie_files/PerpendicularBisectorScene/3040924799_1357834153_2309574723.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/perpendicularBisector/1080p60/partial_movie_files/PerpendicularBisectorScene/3040924799_731898169_3569020339.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/perpendicularBisector/1080p60/partial_movie_files/PerpendicularBisectorScene/3040924799_2844360058_1189445291.mp4'

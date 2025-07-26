@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/equilateralTriangle/1080p60/partial_movie_files/EquilateralTriangleWithSlashes/3529212410_679907615_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/equilateralTriangle/1080p60/partial_movie_files/EquilateralTriangleWithSlashes/3040924799_1191565241_1503959994.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/equilateralTriangle/1080p60/partial_movie_files/EquilateralTriangleWithSlashes/3040924799_2047277017_3874813732.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/equilateralTriangle/1080p60/partial_movie_files/EquilateralTriangleWithSlashes/3040924799_1619448492_3128329202.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/equilateralTriangle/1080p60/partial_movie_files/EquilateralTriangleWithSlashes/3040924799_2042955191_2473055893.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/equilateralTriangle/1080p60/partial_movie_files/EquilateralTriangleWithSlashes/3040924799_2844360058_663024336.mp4'

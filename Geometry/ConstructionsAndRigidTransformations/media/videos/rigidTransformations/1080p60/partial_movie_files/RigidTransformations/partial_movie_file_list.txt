@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/3977891868_2969924720_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_4217992463_558192688.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_1583741190_514590662.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_1205744212_3236735312.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_4217992463_1205084333.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_3066739962_3224170076.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_1983284540_1594578288.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_4217992463_4094246840.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_578181817_849590787.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_3023740033_1597168189.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/GeometryMANIM/ConstructionsAndRigidTransformations/media/videos/rigidTransformations/1080p60/partial_movie_files/RigidTransformations/2852726489_2844360058_3964423748.mp4'

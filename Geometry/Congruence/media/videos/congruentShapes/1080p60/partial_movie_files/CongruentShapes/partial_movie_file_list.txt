@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3529212410_3549467722_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_489360237_722479454.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_4206278338_2532603089.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_4217992463_1969975301.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_1701577285_3217925626.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_2844360058_78705748.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_3582530851_1228751290.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_1775296532_1228751290.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_2844360058_2141126002.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_3682485735_1749748574.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruentShapes/1080p60/partial_movie_files/CongruentShapes/3040924799_2552855209_2571925592.mp4'

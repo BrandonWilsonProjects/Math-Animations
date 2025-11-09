@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3529212410_2156745777_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_846862684_741093488.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_3543214701_2277340659.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_4217992463_46714087.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_3320268898_4147243854.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_3230849623_3662825358.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_3768591504_71640248.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_1064049859_1277790747.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_3914089922_2632274496.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/cubicRate/1080p60/partial_movie_files/CubicGrowthRateNoLatex/3040924799_2552855209_3035586709.mp4'

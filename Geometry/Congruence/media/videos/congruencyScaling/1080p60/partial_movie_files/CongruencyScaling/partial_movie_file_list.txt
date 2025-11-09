@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3529212410_1083837751_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_1947738097_2034273116.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_2893960917_511794506.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_2844360058_189382661.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_150634702_1866978003.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_4217992463_2712293212.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_1182087594_1504087775.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_4217992463_3100313495.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_2404657839_3210258130.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_4217992463_218848143.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_2159480720_3445948215.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/congruencyScaling/1080p60/partial_movie_files/CongruencyScaling/3040924799_2552855209_2513971149.mp4'

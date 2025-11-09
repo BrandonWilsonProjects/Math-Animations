@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/lineSegment180/1080p60/partial_movie_files/LineSegmentAlways180/3529212410_1750717770_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/lineSegment180/1080p60/partial_movie_files/LineSegmentAlways180/3040924799_1815422053_104851769.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/lineSegment180/1080p60/partial_movie_files/LineSegmentAlways180/3040924799_4217992463_4168916180.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/lineSegment180/1080p60/partial_movie_files/LineSegmentAlways180/3040924799_1459339307_3021293916.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/lineSegment180/1080p60/partial_movie_files/LineSegmentAlways180/3040924799_2844360058_733519846.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/lineSegment180/1080p60/partial_movie_files/LineSegmentAlways180/3040924799_4258329919_554207670.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/lineSegment180/1080p60/partial_movie_files/LineSegmentAlways180/3040924799_466497894_554207670.mp4'

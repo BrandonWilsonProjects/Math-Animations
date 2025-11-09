@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/3529212410_3269822764_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/3040924799_903084774_541002921.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/3040924799_328388854_566499563.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/3040924799_3344897340_3691375796.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/3040924799_2844360058_4124644112.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/3040924799_2932283143_2873729818.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/3040924799_3394500337_210259938.mp4'

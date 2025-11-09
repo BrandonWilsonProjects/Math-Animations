@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/relativeMinMax/1080p60/partial_movie_files/RelativeMinMaxAnimation/3529212410_1857547273_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/relativeMinMax/1080p60/partial_movie_files/RelativeMinMaxAnimation/3040924799_4217992463_2716660631.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/relativeMinMax/1080p60/partial_movie_files/RelativeMinMaxAnimation/3040924799_600413497_3130921474.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/relativeMinMax/1080p60/partial_movie_files/RelativeMinMaxAnimation/3040924799_2035629617_1277545486.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/relativeMinMax/1080p60/partial_movie_files/RelativeMinMaxAnimation/3040924799_4217992463_3708944601.mp4'

@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/slopeYintercept/1080p60/partial_movie_files/SlopeIntercept/3529212410_2997655649_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/slopeYintercept/1080p60/partial_movie_files/SlopeIntercept/3040924799_1340832388_1142964400.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/slopeYintercept/1080p60/partial_movie_files/SlopeIntercept/3040924799_3322979644_1382417795.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/slopeYintercept/1080p60/partial_movie_files/SlopeIntercept/3040924799_3436191832_3516618410.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/slopeYintercept/1080p60/partial_movie_files/SlopeIntercept/3040924799_4117381472_2416521533.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/slopeYintercept/1080p60/partial_movie_files/SlopeIntercept/3040924799_3272202396_110482520.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/slopeYintercept/1080p60/partial_movie_files/SlopeIntercept/3040924799_2834709167_3570196744.mp4'

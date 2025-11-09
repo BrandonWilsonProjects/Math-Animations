@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/SegmentComparison/3529212410_1351934461_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/SegmentComparison/3040924799_1580019085_3820427395.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/SegmentComparison/3040924799_107501220_1046849762.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/SegmentComparison/3040924799_4217992463_1536226335.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/SegmentComparison/3040924799_461506477_82934741.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/SegmentComparison/3040924799_2552855209_3305176760.mp4'

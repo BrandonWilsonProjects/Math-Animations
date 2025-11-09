@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/arithmeticSequence/1080p60/partial_movie_files/ArithmeticSequence/3529212410_4283657869_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/arithmeticSequence/1080p60/partial_movie_files/ArithmeticSequence/3040924799_791343385_602100710.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/arithmeticSequence/1080p60/partial_movie_files/ArithmeticSequence/3040924799_2844360058_2010077474.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/arithmeticSequence/1080p60/partial_movie_files/ArithmeticSequence/3040924799_4272134968_3536186830.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/arithmeticSequence/1080p60/partial_movie_files/ArithmeticSequence/3040924799_2552855209_736636223.mp4'

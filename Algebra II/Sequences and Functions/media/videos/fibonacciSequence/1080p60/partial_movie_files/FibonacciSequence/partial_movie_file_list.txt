@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/fibonacciSequence/1080p60/partial_movie_files/FibonacciSequence/3529212410_4293886866_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/fibonacciSequence/1080p60/partial_movie_files/FibonacciSequence/3040924799_2134432950_3954240683.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/fibonacciSequence/1080p60/partial_movie_files/FibonacciSequence/3040924799_2844360058_107855894.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/fibonacciSequence/1080p60/partial_movie_files/FibonacciSequence/3040924799_3214589324_90164567.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/Sequences and Functions/media/videos/fibonacciSequence/1080p60/partial_movie_files/FibonacciSequence/3040924799_2552855209_2978613142.mp4'

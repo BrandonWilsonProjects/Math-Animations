@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/exponentialG/1080p60/partial_movie_files/ExponentialGrowthPlain/3529212410_1911742928_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/exponentialG/1080p60/partial_movie_files/ExponentialGrowthPlain/3040924799_380156796_2526722415.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/exponentialG/1080p60/partial_movie_files/ExponentialGrowthPlain/3040924799_506599201_1795447316.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/exponentialG/1080p60/partial_movie_files/ExponentialGrowthPlain/3040924799_403879797_3441468483.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/exponentialG/1080p60/partial_movie_files/ExponentialGrowthPlain/3040924799_3366045169_2182231477.mp4'

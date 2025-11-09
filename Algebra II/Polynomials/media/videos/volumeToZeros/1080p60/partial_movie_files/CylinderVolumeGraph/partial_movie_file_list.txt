@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/3272876394_3605488190_1343416489.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_886130962_535579674.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_80180434_1367464874.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_3472757822_138201511.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_441593528_3512138768.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_850504466_3575635186.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_950371956_4273258671.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_4289989856_965528265.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_842831583_1289646514.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_964225193_1407133835.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_1489415686_2336002021.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/volumeToZeros/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_2603304991_860210005.mp4'

@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3529212410_1752238452_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3040924799_1181265088_310083332.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3040924799_3394500337_2077065070.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3040924799_3919865250_2722363301.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3040924799_3394500337_1583309539.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3040924799_3813292988_498562171.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3040924799_3394500337_4275424697.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3040924799_2049686283_3966617959.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/exponentialGrowthDecay/1080p60/partial_movie_files/ExponentialGrowthDecayPlain/3040924799_2844360058_837288629.mp4'

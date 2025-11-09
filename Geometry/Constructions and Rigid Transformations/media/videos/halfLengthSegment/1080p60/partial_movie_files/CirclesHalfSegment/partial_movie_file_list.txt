@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/CirclesHalfSegment/3529212410_1351934461_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/CirclesHalfSegment/3040924799_132791712_3820427395.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/CirclesHalfSegment/3040924799_1351465412_667429639.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/CirclesHalfSegment/3040924799_1853991582_1415996031.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/CirclesHalfSegment/3040924799_461506477_4018730280.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/CirclesHalfSegment/3040924799_2552855209_2210541602.mp4'

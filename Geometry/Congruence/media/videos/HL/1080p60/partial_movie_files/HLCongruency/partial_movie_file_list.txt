@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3529212410_2156941193_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3040924799_980812861_2802384239.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3040924799_1025025193_1448720704.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3040924799_2695102349_1548726161.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3040924799_2016497310_3119633595.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3040924799_708965805_1348199299.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3040924799_1006741116_3476966019.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3040924799_3137762479_6435027.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/HL/1080p60/partial_movie_files/HLCongruency/3040924799_2552855209_2380578663.mp4'

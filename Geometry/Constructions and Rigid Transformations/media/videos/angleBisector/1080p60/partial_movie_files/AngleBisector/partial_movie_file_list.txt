@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/angleBisector/1080p60/partial_movie_files/AngleBisector/3529212410_3553215756_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/angleBisector/1080p60/partial_movie_files/AngleBisector/3040924799_3281074125_1822768826.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/angleBisector/1080p60/partial_movie_files/AngleBisector/3040924799_3436641131_1855373146.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/angleBisector/1080p60/partial_movie_files/AngleBisector/3040924799_3398294717_3294695193.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/angleBisector/1080p60/partial_movie_files/AngleBisector/3040924799_2415425308_4138754534.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/angleBisector/1080p60/partial_movie_files/AngleBisector/3040924799_4015561156_651524281.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/angleBisector/1080p60/partial_movie_files/AngleBisector/3040924799_1686853993_1268300671.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/angleBisector/1080p60/partial_movie_files/AngleBisector/3040924799_2552855209_3207810257.mp4'

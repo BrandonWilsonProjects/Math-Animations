@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3529212410_1399562497_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_4115916781_3301879758.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_1735604135_3577970551.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_4217992463_2877433565.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_310911523_1748720044.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_2844360058_2025283923.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_44608911_3348673689.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_3470773977_2895409760.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_4217992463_3458489774.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_2476326042_3958215760.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_278891117_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/EconomicGrowth/1080p60/partial_movie_files/EconomicPolynomialReality/3040924799_206138768_1066849840.mp4'

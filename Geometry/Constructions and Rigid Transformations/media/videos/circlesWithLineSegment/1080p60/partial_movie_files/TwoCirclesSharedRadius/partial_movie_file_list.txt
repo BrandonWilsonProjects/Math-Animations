@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithLineSegment/1080p60/partial_movie_files/TwoCirclesSharedRadius/3529212410_247417421_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithLineSegment/1080p60/partial_movie_files/TwoCirclesSharedRadius/3040924799_3256962975_888781162.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithLineSegment/1080p60/partial_movie_files/TwoCirclesSharedRadius/3040924799_3085542400_3237279611.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithLineSegment/1080p60/partial_movie_files/TwoCirclesSharedRadius/3040924799_3394500337_125235681.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithLineSegment/1080p60/partial_movie_files/TwoCirclesSharedRadius/3040924799_3740612164_208310078.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithLineSegment/1080p60/partial_movie_files/TwoCirclesSharedRadius/3040924799_1509888590_2809297390.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithLineSegment/1080p60/partial_movie_files/TwoCirclesSharedRadius/3040924799_2552855209_3585116760.mp4'

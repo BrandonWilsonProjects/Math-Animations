@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/OverlappingCircles/3529212410_1651041324_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/OverlappingCircles/3040924799_3484642031_868513594.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/OverlappingCircles/3040924799_3500460067_3176872636.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/OverlappingCircles/3040924799_760357767_490170481.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/OverlappingCircles/3040924799_2880583922_2680558072.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/OverlappingCircles/3040924799_316794377_2759642089.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/halfLengthSegment/1080p60/partial_movie_files/OverlappingCircles/3040924799_2552855209_1405336380.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/zeroValues/1080p60/partial_movie_files/CubicZerosAnimation/3529212410_1857547273_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/zeroValues/1080p60/partial_movie_files/CubicZerosAnimation/3040924799_4217992463_2716660631.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/zeroValues/1080p60/partial_movie_files/CubicZerosAnimation/3040924799_2629550661_3130921474.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/zeroValues/1080p60/partial_movie_files/CubicZerosAnimation/3040924799_3585418979_3245009906.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/zeroValues/1080p60/partial_movie_files/CubicZerosAnimation/3040924799_3550257945_2985953883.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/zeroValues/1080p60/partial_movie_files/CubicZerosAnimation/3040924799_4217992463_3489165792.mp4'

@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3529212410_257186214_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_2578092560_107012044.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_533543405_4092907746.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_3973982366_120953742.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_758849477_2210839357.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_2579135829_3557819034.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_2755436827_2552992113.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_622580460_3256970209.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_844943652_268024572.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equilateralTriangleInCircle/1080p60/partial_movie_files/EquilateralTriangleInCircle/3040924799_1133778333_478728214.mp4'

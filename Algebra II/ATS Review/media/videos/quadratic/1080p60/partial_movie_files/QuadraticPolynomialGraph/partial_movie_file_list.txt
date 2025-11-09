@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/quadratic/1080p60/partial_movie_files/QuadraticPolynomialGraph/3529212410_2252722541_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/quadratic/1080p60/partial_movie_files/QuadraticPolynomialGraph/3040924799_2515757458_2278124510.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/quadratic/1080p60/partial_movie_files/QuadraticPolynomialGraph/3040924799_1272202547_337994604.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/quadratic/1080p60/partial_movie_files/QuadraticPolynomialGraph/3040924799_4217992463_1328980063.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/quadratic/1080p60/partial_movie_files/QuadraticPolynomialGraph/3040924799_1456361922_1042840847.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/quadratic/1080p60/partial_movie_files/QuadraticPolynomialGraph/3040924799_4217992463_2004528310.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/quadratic/1080p60/partial_movie_files/QuadraticPolynomialGraph/3040924799_1124546275_350815095.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/quadratic/1080p60/partial_movie_files/QuadraticPolynomialGraph/3040924799_4217992463_2145135434.mp4'

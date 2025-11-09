@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3529212410_1393607876_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_543167324_3196236661.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_2260858750_2999616414.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_354914258_2195528224.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_4217992463_1906555516.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_2761416308_2755783997.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_4217992463_1904192125.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_414949436_1168567261.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_4217992463_1157961950.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_3562833919_1857657576.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/CongruenceProblem2/1080p60/partial_movie_files/CongruenceProblem2/3040924799_2552855209_1255243900.mp4'

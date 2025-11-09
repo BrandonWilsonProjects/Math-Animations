@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/ASA/1080p60/partial_movie_files/ASACongruency/3529212410_363780962_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/ASA/1080p60/partial_movie_files/ASACongruency/3040924799_3469841817_860443823.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/ASA/1080p60/partial_movie_files/ASACongruency/3040924799_1614177147_3078862490.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/ASA/1080p60/partial_movie_files/ASACongruency/3040924799_2632962014_2571415965.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/ASA/1080p60/partial_movie_files/ASACongruency/3040924799_2552855209_975597989.mp4'

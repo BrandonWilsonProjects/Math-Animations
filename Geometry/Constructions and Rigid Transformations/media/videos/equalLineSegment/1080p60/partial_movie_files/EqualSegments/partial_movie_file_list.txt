@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/EqualSegments/3529212410_1800739892_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/EqualSegments/3040924799_3484642031_571804437.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/EqualSegments/3040924799_2417588258_2926889197.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/EqualSegments/3040924799_3643372251_2360331324.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/EqualSegments/3040924799_1836424225_3321281406.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/EqualSegments/3040924799_3677526037_3170785484.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/EqualSegments/3040924799_28305451_703696823.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/EqualSegments/3040924799_2552855209_1202786900.mp4'

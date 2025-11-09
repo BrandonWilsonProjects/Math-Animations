@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem3/1080p60/partial_movie_files/AngleBisectorTwoTriangles/3529212410_4155359499_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem3/1080p60/partial_movie_files/AngleBisectorTwoTriangles/3040924799_3876766841_2986518468.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem3/1080p60/partial_movie_files/AngleBisectorTwoTriangles/3040924799_4006903216_240139857.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem3/1080p60/partial_movie_files/AngleBisectorTwoTriangles/3040924799_898612080_2736703100.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem3/1080p60/partial_movie_files/AngleBisectorTwoTriangles/3040924799_1231813317_839451843.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem3/1080p60/partial_movie_files/AngleBisectorTwoTriangles/3040924799_2792414448_3488596941.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem3/1080p60/partial_movie_files/AngleBisectorTwoTriangles/3040924799_289057425_2158063724.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem3/1080p60/partial_movie_files/AngleBisectorTwoTriangles/3040924799_2552855209_3932171651.mp4'

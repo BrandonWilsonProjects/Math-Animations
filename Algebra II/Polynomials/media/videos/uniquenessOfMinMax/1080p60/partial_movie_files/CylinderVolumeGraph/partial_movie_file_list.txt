@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/3272876394_2568391187_346018911.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_422572190_4288468944.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_2407827260_511041150.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_1817508321_2375202553.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_1007296590_2574000293.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_1627964771_2820727359.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_2774188246_815029234.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_1134459130_1579783559.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_4057516762_1011148713.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_1341675174_110343622.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CylinderVolumeGraph/734416844_2603304991_4143783340.mp4'

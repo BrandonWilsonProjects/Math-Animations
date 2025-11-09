@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/TwoCirclesDiameters/3529212410_1800739892_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/TwoCirclesDiameters/3040924799_394712533_571804437.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/TwoCirclesDiameters/3040924799_2172861108_3559163044.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/TwoCirclesDiameters/3040924799_1910421127_3369190213.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/TwoCirclesDiameters/3040924799_1686492124_1357710279.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/TwoCirclesDiameters/3040924799_2800683341_399720740.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/equalLineSegment/1080p60/partial_movie_files/TwoCirclesDiameters/3040924799_2552855209_2348684450.mp4'

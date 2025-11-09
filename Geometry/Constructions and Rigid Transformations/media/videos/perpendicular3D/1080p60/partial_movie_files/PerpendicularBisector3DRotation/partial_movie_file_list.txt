@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/3272876394_1904574725_1027465611.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/259845638_3252981104_2573527882.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/1841894852_1527101808_748345299.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/4081977692_2398590221_2353232945.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/1848366235_1877444471_3596809730.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/1848366235_413393728_1295724305.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/1848366235_3824450782_3863981060.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/1848366235_270230196_2996908868.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/perpendicular3D/1080p60/partial_movie_files/PerpendicularBisector3DRotation/241914112_1974668180_2974340916.mp4'

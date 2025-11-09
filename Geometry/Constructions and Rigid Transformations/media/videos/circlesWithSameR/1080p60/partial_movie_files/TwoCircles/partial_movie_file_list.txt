@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithSameR/1080p60/partial_movie_files/TwoCircles/3529212410_3130597675_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithSameR/1080p60/partial_movie_files/TwoCircles/3040924799_3023742992_1594706026.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithSameR/1080p60/partial_movie_files/TwoCircles/3040924799_3180491249_2631517000.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/circlesWithSameR/1080p60/partial_movie_files/TwoCircles/3040924799_2844360058_1448629218.mp4'

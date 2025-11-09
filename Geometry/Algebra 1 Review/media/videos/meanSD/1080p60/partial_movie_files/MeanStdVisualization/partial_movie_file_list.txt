@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3529212410_1190248939_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3040924799_4143225344_2899821163.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3040924799_6737404_2515721229.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3040924799_3088987502_1590156541.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3040924799_3066694917_1484911830.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3040924799_3861698422_144739457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3040924799_1756142246_1521664298.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3040924799_1358286053_2211600057.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/meanSD/1080p60/partial_movie_files/MeanStdVisualization/3040924799_2844360058_1484045956.mp4'

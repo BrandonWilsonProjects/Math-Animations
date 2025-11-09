@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/quadFormula/1080p60/partial_movie_files/QuadraticFormulaDemo/3529212410_2278430675_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/quadFormula/1080p60/partial_movie_files/QuadraticFormulaDemo/3040924799_3186848530_3982699417.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/quadFormula/1080p60/partial_movie_files/QuadraticFormulaDemo/3040924799_2216177327_2888810993.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/quadFormula/1080p60/partial_movie_files/QuadraticFormulaDemo/3040924799_1830325184_2765019187.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/quadFormula/1080p60/partial_movie_files/QuadraticFormulaDemo/3040924799_233675620_1546697243.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/quadFormula/1080p60/partial_movie_files/QuadraticFormulaDemo/3040924799_2693923103_3035673967.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/quadFormula/1080p60/partial_movie_files/QuadraticFormulaDemo/3040924799_2844360058_350738704.mp4'

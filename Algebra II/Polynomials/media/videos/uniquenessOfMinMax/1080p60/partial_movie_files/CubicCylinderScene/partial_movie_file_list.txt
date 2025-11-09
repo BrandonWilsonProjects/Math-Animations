@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/3140642728_1569972977_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/2520682514_3035256080_3183441763.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/2520682514_2631580503_2994695774.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/2520682514_520611813_4180180141.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/2520682514_2631580503_1848489828.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/2520682514_341230196_2689998754.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/2520682514_789064381_2834272175.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/2520682514_1218610942_3622771883.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/uniquenessOfMinMax/1080p60/partial_movie_files/CubicCylinderScene/2520682514_789064381_1121281239.mp4'

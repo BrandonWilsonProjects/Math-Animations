@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/transversals/1080p60/partial_movie_files/TransversalsAnimation/3529212410_282559306_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/transversals/1080p60/partial_movie_files/TransversalsAnimation/3040924799_978513651_3114554646.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/transversals/1080p60/partial_movie_files/TransversalsAnimation/3040924799_4217992463_624359023.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/transversals/1080p60/partial_movie_files/TransversalsAnimation/3040924799_832673193_2272945251.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/transversals/1080p60/partial_movie_files/TransversalsAnimation/3040924799_4217992463_2240525491.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/transversals/1080p60/partial_movie_files/TransversalsAnimation/3040924799_2581131557_1661051513.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/transversals/1080p60/partial_movie_files/TransversalsAnimation/3040924799_2552855209_2419175510.mp4'

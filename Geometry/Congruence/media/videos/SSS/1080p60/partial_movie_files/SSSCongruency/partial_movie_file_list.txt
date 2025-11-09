@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/SSS/1080p60/partial_movie_files/SSSCongruency/3529212410_2798245492_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/SSS/1080p60/partial_movie_files/SSSCongruency/3040924799_3469841817_1091450405.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/SSS/1080p60/partial_movie_files/SSSCongruency/3040924799_1925009041_3300972162.mp4'
+file 'file:F:/MathAnimations/Geometry/Congruence/media/videos/SSS/1080p60/partial_movie_files/SSSCongruency/3040924799_2552855209_3059474231.mp4'

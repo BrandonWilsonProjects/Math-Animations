@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3529212410_2405514790_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3040924799_2873469656_514290784.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3040924799_3394500337_85379238.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3040924799_719595203_1164827465.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3040924799_3394500337_2158032308.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3040924799_133508803_571571088.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3040924799_4217992463_3034111127.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3040924799_2746903367_482288203.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/meanMedianMode/1080p60/partial_movie_files/MeanMedianMode_NoLatex/3040924799_2552855209_4287539361.mp4'

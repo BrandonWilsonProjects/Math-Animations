@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3529212410_3927492687_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_3307230562_2662641849.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_3635352669_315774255.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_3058916506_3128380663.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_140202596_2958822989.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_3276875761_1466520900.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_2200814969_3719086637.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_211322218_3652426211.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_3259966861_2553861367.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_2127439793_291170698.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_2782010981_2013230153.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem/1080p60/partial_movie_files/PerpendicularBisectorProblem/3040924799_3638759012_45676.mp4'

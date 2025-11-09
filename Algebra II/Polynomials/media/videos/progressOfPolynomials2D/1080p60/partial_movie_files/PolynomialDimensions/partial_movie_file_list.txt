@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/progressOfPolynomials2D/1080p60/partial_movie_files/PolynomialDimensions/3529212410_3872463416_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/progressOfPolynomials2D/1080p60/partial_movie_files/PolynomialDimensions/3040924799_285073780_1810120574.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/progressOfPolynomials2D/1080p60/partial_movie_files/PolynomialDimensions/3040924799_2844360058_1348077287.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/progressOfPolynomials2D/1080p60/partial_movie_files/PolynomialDimensions/3040924799_3647124678_2846455364.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/progressOfPolynomials2D/1080p60/partial_movie_files/PolynomialDimensions/3040924799_2844360058_2832637642.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/progressOfPolynomials2D/1080p60/partial_movie_files/PolynomialDimensions/3040924799_2005975084_1780441292.mp4'
+file 'file:F:/MathAnimations/Algebra II/Polynomials/media/videos/progressOfPolynomials2D/1080p60/partial_movie_files/PolynomialDimensions/3040924799_2552855209_251718998.mp4'

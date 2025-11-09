@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3529212410_958310200_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_4217992463_3452324640.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_337427272_2722118503.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_4217992463_827634576.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_919384437_1946562387.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_4217992463_3849438335.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_605867112_268434327.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_4217992463_4189882477.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_3966898626_175265773.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_4217992463_4136003245.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_3468360643_2972828407.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/oneVariableEq/1080p60/partial_movie_files/SolveEquationTextOnly/3040924799_2844360058_3072579918.mp4'

@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3529212410_1666831388_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_4217992463_2341389016.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_1059772505_3011337264.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_187751841_1113428800.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_3394500337_419843804.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_493471879_2048523771.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_62933277_3630788782.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_4217992463_2259674263.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_827370892_538954770.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/Corresponding/1080p60/partial_movie_files/CorrespondingAnglesFixed/3040924799_2844360058_1889460722.mp4'

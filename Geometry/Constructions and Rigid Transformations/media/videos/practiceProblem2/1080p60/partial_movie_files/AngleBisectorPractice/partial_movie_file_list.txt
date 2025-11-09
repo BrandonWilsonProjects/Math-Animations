@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3529212410_4256158643_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3040924799_3055029454_2307235750.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3040924799_3866925127_2532353793.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3040924799_3006027767_3229119859.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3040924799_2908700332_1273869990.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3040924799_2402098172_1139907956.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3040924799_2710651696_2497963885.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3040924799_2775480955_3707897568.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/practiceProblem2/1080p60/partial_movie_files/AngleBisectorPractice/3040924799_2552855209_3211196193.mp4'

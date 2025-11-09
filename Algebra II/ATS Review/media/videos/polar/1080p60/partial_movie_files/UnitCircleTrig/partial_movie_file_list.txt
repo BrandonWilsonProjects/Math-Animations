@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3529212410_3090880202_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3040924799_1964946037_2089075292.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3040924799_3394500337_785738.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3040924799_1600247704_2914150950.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3040924799_4217992463_152714958.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3040924799_2319856885_3626615473.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3040924799_4217992463_1890186279.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3040924799_1966990031_1700976307.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Algebra II/media/videos/polar/1080p60/partial_movie_files/UnitCircleTrig/3040924799_4217992463_1804733593.mp4'

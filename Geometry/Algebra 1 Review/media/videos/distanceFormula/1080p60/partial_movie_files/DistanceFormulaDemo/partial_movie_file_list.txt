@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3529212410_3256196186_223132457.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3040924799_4138236470_930421349.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3040924799_1009759306_2186156962.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3040924799_632069519_2300480545.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3040924799_3891048120_2190584271.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3040924799_2721598299_2305553100.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3040924799_2254832032_410682790.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3040924799_3731936348_3297882671.mp4'
+file 'file:C:/Users/bzwil/OneDrive/Desktop/MathAnimations/Geometry/ConstructionsAndRigidTransformations/media/videos/distanceFormula/1080p60/partial_movie_files/DistanceFormulaDemo/3040924799_3366045169_3782186331.mp4'

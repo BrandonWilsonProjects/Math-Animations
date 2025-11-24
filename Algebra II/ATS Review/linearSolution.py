@@ -1,9 +1,9 @@
 from manim import *
 import numpy as np
 
+# this file intends to emphasize the importance of linear solutions. 
 class GraphicalIntersection(Scene):
     def construct(self):
-        # Axes
         axes = Axes(
             x_range=[-1, 6, 1],
             y_range=[-1, 6, 1],
@@ -32,20 +32,16 @@ class GraphicalIntersection(Scene):
         self.play(Write(label2))
         self.wait(0.3)
 
-        # Compute and show the intersection (unique solution)
-        # (This system solves to (x, y) = (1, 2))
         x_sol, y_sol = 1, 2
         P = axes.coords_to_point(x_sol, y_sol)
         dot = Dot(P, color=YELLOW).scale(1.1)
         pulse = SurroundingRectangle(dot, color=YELLOW, buff=0.08).set_stroke(width=2)
 
-        # Guidelines to axes (to "read off" coordinates)
         vx = DashedLine(P, axes.coords_to_point(x_sol, 0), stroke_opacity=0.6)
         vy = DashedLine(P, axes.coords_to_point(0, y_sol), stroke_opacity=0.6)
         x_tick = Text("1", font="Consolas").scale(0.5).next_to(axes.coords_to_point(x_sol, 0), DOWN)
         y_tick = Text("2", font="Consolas").scale(0.5).next_to(axes.coords_to_point(0, y_sol), LEFT)
 
-        # Caption: what it means
         caption = Text("Unique solution = intersection point", weight=BOLD).scale(0.6)
         caption.to_edge(UP)
 
@@ -54,7 +50,6 @@ class GraphicalIntersection(Scene):
         self.play(Create(vx), Create(vy), FadeIn(x_tick), FadeIn(y_tick))
         self.wait(0.4)
 
-        # Emphasize that both line equations are satisfied at this point
         callout = VGroup(
             Text("Point lies on both lines", weight=BOLD).scale(0.5),
             Text("→ satisfies both equations simultaneously", slant=ITALIC).scale(0.45),
@@ -65,7 +60,6 @@ class GraphicalIntersection(Scene):
         callout_group.next_to(dot, RIGHT, buff=1.5).shift(RIGHT * 1.2)
         self.play(FadeIn(callout_group, shift=RIGHT*0.2))
 
-        # Final highlight on the point (x, y) = (1, 2)
         sol_text = Text("Solution: (1, 2)", font="Consolas").scale(0.4).set_color(YELLOW)
         sol_text.next_to(dot, UP, buff=0.6).shift(UP*0.3)
         self.play(Write(sol_text), Flash(dot, color=YELLOW))

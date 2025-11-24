@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3529212410_1501828227_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_1147940699_2995246630.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_4217992463_2895546108.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_3435142361_2254568573.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_4217992463_3421030840.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_1347489394_2646587760.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_4217992463_2670044666.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_2544303911_760301887.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_4217992463_4080473178.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_3670452918_2628660606.mp4'
+file 'file:F:/MathAnimations/Geometry/Similarity/media/videos/meaningOfSimilarity/1080p60/partial_movie_files/PerfectSimilarity/3040924799_2844360058_2272000895.mp4'

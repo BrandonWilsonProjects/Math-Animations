@@ -20,18 +20,43 @@ class GraphicalIntersection(Scene):
 
         line1 = axes.plot(f1, x_range=[-1, 6], color=BLUE_D)
         line2 = axes.plot(f2, x_range=[-1, 6], color=GREEN_D)
-
-        label1 = Text("2x + 3y = 8", font="Consolas").scale(0.5).set_color(BLUE_D)
-        label2 = Text("5x - 6y = -7", font="Consolas").scale(0.5).set_color(GREEN_D)
-        label1.next_to(line1.get_center(), UP)
-        label2.next_to(line2.get_center(), DOWN)
-
-        self.play(Create(line1))
-        self.play(Write(label1))
-        self.play(Create(line2))
-        self.play(Write(label2))
+        self.play(FadeIn(line1, line2))
+        self.wait(2)
+        
+        # Create text first
+        text1 = Text("2x + 3y = 8", font="Consolas").scale(0.5).set_color(BLUE_D)
+        
+        # Create background box sized to the text
+        box_bg = RoundedRectangle(
+            corner_radius=0.1, 
+            height=text1.height + 0.3, 
+            width=text1.width + 0.4
+        ).set_stroke(width=1).set_fill(color=BLUE, opacity=0.2)
+        
+        # Group them together with text on top
+        box_group1 = VGroup(box_bg, text1)
+        text1.move_to(box_bg.get_center())  # Center text in box
+        # Position at a specific point on line1 (left side, away from intersection)
+        box_group1.move_to(axes.coords_to_point(3.5, f1(3.5))).shift(UP*0.5, RIGHT*1.2)
+        self.play(FadeIn(box_group1))
         self.wait(0.3)
-
+        
+        # Second box
+        text2 = Text("5x - 6y = -7", font="Consolas").scale(0.5).set_color(GREEN_D)
+        
+        box_bp = RoundedRectangle(
+            corner_radius=0.1, 
+            height=text2.height + 0.3, 
+            width=text2.width + 0.4
+        ).set_stroke(width=1).set_fill(color=GREEN, opacity=0.2)
+        
+        box_group2 = VGroup(box_bp, text2)
+        text2.move_to(box_bp.get_center())  # Center text in box
+        # Position at a specific point on line2 (right side, away from intersection)
+        box_group2.move_to(axes.coords_to_point(4, f2(4))).shift(DOWN*0.5, RIGHT*1.2)
+        self.play(FadeIn(box_group2))        
+        self.wait(0.3)
+        
         x_sol, y_sol = 1, 2
         P = axes.coords_to_point(x_sol, y_sol)
         dot = Dot(P, color=YELLOW).scale(1.1)
@@ -58,9 +83,23 @@ class GraphicalIntersection(Scene):
             .set_stroke(width=1).set_fill(color=BLACK, opacity=0.2)
         callout_group = VGroup(callout_bg, callout)
         callout_group.next_to(dot, RIGHT, buff=1.5).shift(RIGHT * 1.2)
-        self.play(FadeIn(callout_group, shift=RIGHT*0.2))
+        self.play(FadeIn(callout_group, shift=RIGHT*2.5))
 
-        sol_text = Text("Solution: (1, 2)", font="Consolas").scale(0.4).set_color(YELLOW)
-        sol_text.next_to(dot, UP, buff=0.6).shift(UP*0.3)
+        sol_text = Text("Solution: (1, 2)", font="Consolas").scale(0.32).set_color(YELLOW)
+        sol_text.next_to(dot, UP, buff=0.3).shift(UP*0.3)
         self.play(Write(sol_text), Flash(dot, color=YELLOW))
-        self.wait(0.8)
+        self.wait(2)
+        
+        self.play(FadeOut(axes, x_label, y_label, line1, line2, box_group1, box_group2, caption, dot, pulse, vx, vy, x_tick, y_tick, callout_group, sol_text, dot))
+        
+        summary = VGroup(
+            Text("Linear Solutions - The values that satisfy a linear equation or system of equations", font_size=24, weight=BOLD).set_color(ORANGE),
+            Text("\nSimplify both sides: Combine any like terms on each side of the equal sign.", font_size=22).shift(DOWN * 0.6),
+            Text("\nIsolate the variable term: Use inverse operations (adding or subtracting) to move all \nconstant terms to one side and the variable terms to the other.\n", font_size=22).shift(DOWN * 1.1),
+            Text("\nSolve for the variable: Use multiplication or division to get the variable by itself", font_size=22).shift(DOWN * 1.6),
+            Text("\nCheck your answer: Substitute the solution back into the\n original equation to ensure it holds true", font_size=22, weight=BOLD).shift(DOWN * 2.1).set_color(ORANGE)
+        )
+        
+        self.play(FadeIn(summary))
+        self.wait(7)
+        

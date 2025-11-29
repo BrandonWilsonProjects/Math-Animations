@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/3977891868_1534281081_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_2783135693_4247590131.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_358614215_1623790364.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_334322407_3795750934.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_352247455_3617897140.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_742230420_2041630341.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_334322407_3495205861.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_352247455_680846597.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_742230420_3175396129.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_3179637587_3589334737.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticShifts/2852726489_2844360058_3002193884.mp4'

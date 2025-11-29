@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/LinearFunctions/3977891868_2073687524_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/LinearFunctions/2852726489_2552855209_434650314.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/LinearFunctions/2852726489_3199519210_3796544080.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/LinearFunctions/2852726489_2487714551_1666280314.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/LinearFunctions/2852726489_3396186186_2609720775.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/LinearFunctions/2852726489_3612219876_1799768865.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/LinearFunctions/2852726489_2844360058_1138006172.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/LinearFunctions/2852726489_1144221874_158459868.mp4'

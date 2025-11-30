@@ -1,0 +1,8 @@
+file 'PolyTitle.mp4'
+file 'LinearFunctions.mp4'
+file 'QuadraticBasics.mp4'
+file 'QuadraticAValue.mp4'
+file 'QuadraticShifts.mp4'
+file 'CubicFunctions.mp4'
+file 'QuarticFunctions.mp4'
+file 'FinalMessage.mp4'

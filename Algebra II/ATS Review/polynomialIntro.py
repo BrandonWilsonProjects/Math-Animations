@@ -3,7 +3,7 @@ import numpy as np
 
 
 # ============================================================
-# TITLE
+# 4: TITLE  → FIRST
 # ============================================================
 class PolyTitle(Scene):
     def construct(self):
@@ -14,7 +14,7 @@ class PolyTitle(Scene):
 
 
 # ============================================================
-# LINEAR FUNCTIONS
+# 3: LINEAR FUNCTIONS  → SECOND
 # ============================================================
 class LinearFunctions(Scene):
     def construct(self):
@@ -49,7 +49,7 @@ class LinearFunctions(Scene):
 
 
 # ============================================================
-# QUADRATICS – BASIC a>1 AND a<1
+# 6: QUADRATIC BASICS  → THIRD
 # ============================================================
 class QuadraticBasics(Scene):
     def construct(self):
@@ -67,7 +67,6 @@ class QuadraticBasics(Scene):
 
         self.play(Create(axes))
 
-        # a > 1
         quad1 = axes.plot(lambda x: 2*x**2, x_range=[-2.5, 2.5], color=GREEN)
         quad1_eq = Text("f(x) = 2x^2", color=GREEN).scale(0.7).to_corner(UR)
 
@@ -77,7 +76,6 @@ class QuadraticBasics(Scene):
         self.play(Write(quad_note1))
         self.wait(1.5)
 
-        # a < 1
         quad2 = axes.plot(lambda x: 0.3*x**2, x_range=[-4, 4], color=YELLOW)
         quad2_eq = Text("f(x) = 0.3x^2", color=YELLOW).scale(0.7).next_to(quad1_eq, DOWN)
 
@@ -90,8 +88,9 @@ class QuadraticBasics(Scene):
 
         self.play(FadeOut(axes, quad2, quad2_eq, quad_note2, quad1, quad1_eq))
 
+
 # ============================================================
-# QUADRATICS — DYNAMIC A-VALUE
+# 5: QUADRATIC A-VALUE  → FOURTH
 # ============================================================
 class QuadraticAValue(Scene):
     def construct(self):
@@ -124,7 +123,7 @@ class QuadraticAValue(Scene):
 
 
 # ============================================================
-# QUADRATICS — SHIFTING
+# 7: QUADRATIC SHIFTS  → FIFTH
 # ============================================================
 class QuadraticShifts(Scene):
     def construct(self):
@@ -160,7 +159,6 @@ class QuadraticShifts(Scene):
 
         self.play(Create(quad_shift), Write(shift_eq))
 
-        # Animate shifts
         self.play(h_tracker.animate.set_value(2), run_time=2)
         self.play(h_tracker.animate.set_value(-2), run_time=2)
         self.play(h_tracker.animate.set_value(0), run_time=1)
@@ -168,23 +166,28 @@ class QuadraticShifts(Scene):
         self.play(k_tracker.animate.set_value(-2), run_time=2)
         self.play(k_tracker.animate.set_value(0), run_time=1)
 
-        note = Text(
-            "h shifts horizontally (inside parentheses)\nk shifts vertically",
-            font_size=24
-        ).to_corner(UL)
-
-        self.play(FadeOut(shift_label), Write(note))
+        callout = VGroup(
+            Text("h shifts horizontally (inside parentheses)\nk shifts vertically", weight=BOLD, color=BLACK).scale(0.5)
+        )
+        callout_bg = RoundedRectangle(corner_radius=0.2, height=callout.height+0.5, width=callout.width+0.6)\
+            .set_stroke(width=1).set_fill(color=GREEN, opacity=0.7)
+        callout_group = VGroup(callout_bg, callout)
+        callout_group.to_corner(UL)
+        self.play(FadeOut(shift_label), Write(callout_group))
         self.wait(2)
+
+        self.play(FadeOut(axes, callout_group, quad_shift, shift_eq))
 
 
 # ============================================================
-# CUBICS
+# 1: CUBICS  → SIXTH
 # ============================================================
 class CubicFunctions(Scene):
     def construct(self):
-        title = Text("Exploring Polynomial Functions", weight=BOLD).scale(0.9)
         cubic_title = Text("Cubic Functions: f(x) = ax³ + bx² + cx + d", weight=BOLD).scale(0.7)
-        cubic_title.next_to(title, DOWN, buff=0.5)
+        self.play(Write(cubic_title))
+        self.wait(3)
+        self.play(FadeOut(cubic_title))
 
         axes = Axes(
             x_range=[-5, 5, 1],
@@ -193,37 +196,51 @@ class CubicFunctions(Scene):
             y_length=6,
         ).shift(DOWN * 0.5)
 
-        self.play(Write(title))
-        self.play(Write(cubic_title))
         self.play(Create(axes))
 
         cubic1 = axes.plot(lambda x: 0.5*x**3, x_range=[-2.5, 2.5], color=PURPLE)
         cubic1_eq = Text("f(x) = 0.5x^3", color=PURPLE).scale(0.7).to_corner(UR)
 
         self.play(Create(cubic1), Write(cubic1_eq))
-        note1 = Text("a > 0: Rises to the right", font_size=28).next_to(axes, DOWN)
-        self.play(Write(note1))
-        self.wait(1.5)
+
+        callout10 = VGroup(
+            Text("a > 0: Rises to the right", weight=BOLD, color=BLACK).scale(0.5)
+        )
+        callout_bg10 = RoundedRectangle(corner_radius=0.2, height=callout10.height+0.5, width=callout10.width+0.6)\
+            .set_stroke(width=1).set_fill(color=GREEN, opacity=0.7)
+        callout_group10 = VGroup(callout_bg10, callout10)
+        callout_group10.to_corner(UL)
+        self.play(Write(callout_group10))
+        self.wait(2)
+        self.play(FadeOut(callout_group10))
 
         cubic2 = axes.plot(lambda x: -0.5*x**3, x_range=[-2.5, 2.5], color=ORANGE)
-        cubic2_eq = Text("f(x) = -0.5x^3", color=ORANGE).scale(0.7).next_to(cubic1_eq, DOWN)
-
-        self.play(FadeOut(note1))
+        cubic2_eq = Text("f(x) = -0.5x^3", color=ORANGE).scale(0.7).to_corner(UR).shift(DOWN*1.2)
         self.play(Create(cubic2), Write(cubic2_eq))
+        self.wait(3)
 
-        note2 = Text("a < 0: Falls to the right (reflected)", font_size=28).next_to(axes, DOWN)
-        self.play(Write(note2))
+        callout1 = VGroup(
+            Text("a < 0: Falls to the right (reflected)", weight=BOLD, color=BLACK).scale(0.5)
+        )
+        callout_bg1 = RoundedRectangle(corner_radius=0.2, height=callout1.height+0.5, width=callout1.width+0.6)\
+            .set_stroke(width=1).set_fill(color=GREEN, opacity=0.7)
+        callout_group1 = VGroup(callout_bg1, callout1)
+        callout_group1.to_corner(UL)
+        self.play(Write(callout_group1))
         self.wait(2)
+
+        self.play(FadeOut(callout_bg1, cubic1_eq, cubic2_eq, cubic1, cubic2, axes))
 
 
 # ============================================================
-# QUARTICS
+# 8: QUARTICS  → SEVENTH
 # ============================================================
 class QuarticFunctions(Scene):
     def construct(self):
-        title = Text("Exploring Polynomial Functions", weight=BOLD).scale(0.9)
-        quartic_title = Text("Quartic Functions: f(x) = ax⁴ + ...", weight=BOLD).scale(0.7)
-        quartic_title.next_to(title, DOWN, buff=0.5)
+        quartic_title = Text("Quartic Functions: f(x) = ax⁴ + bx³ + cx² + dx + e", weight=BOLD).scale(0.7)
+        self.play(Write(quartic_title))
+        self.wait(3)
+        self.play(FadeOut(quartic_title))
 
         axes = Axes(
             x_range=[-5, 5, 1],
@@ -231,25 +248,50 @@ class QuarticFunctions(Scene):
             x_length=8,
             y_length=6,
         ).shift(DOWN * 0.5)
-
-        self.play(Write(title))
-        self.play(Write(quartic_title))
         self.play(Create(axes))
 
         quartic1 = axes.plot(lambda x: 0.2*x**4, x_range=[-2.5, 2.5], color=MAROON)
         eq1 = Text("f(x) = 0.2x^4", color=MAROON).scale(0.7).to_corner(UR)
 
         self.play(Create(quartic1), Write(eq1))
-        note1 = Text("a > 0: Opens upward (W-shape)", font_size=28).next_to(axes, DOWN)
-        self.play(Write(note1))
+
+        callout20 = VGroup(
+            Text("a > 0: Opens upward (W-shape)", weight=BOLD, color=BLACK).scale(0.5)
+        )
+        callout_bg20 = RoundedRectangle(corner_radius=0.2, height=callout20.height+0.5, width=callout20.width+0.6)\
+            .set_stroke(width=1).set_fill(color=GREEN, opacity=0.7)
+        callout_group20 = VGroup(callout_bg20, callout20)
+        callout_group20.to_corner(UL)
+        self.play(Write(callout_group20))
         self.wait(2)
 
         quartic2 = axes.plot(lambda x: -0.2*x**4, x_range=[-2.5, 2.5], color=PINK)
         eq2 = Text("f(x) = -0.2x^4", color=PINK).scale(0.7).next_to(eq1, DOWN)
 
-        self.play(FadeOut(note1))
+        self.play(FadeOut(callout_group20))
         self.play(Create(quartic2), Write(eq2))
 
-        note2 = Text("a < 0: Opens downward (M-shape)", font_size=28).next_to(axes, DOWN)
-        self.play(Write(note2))
+        callout2 = VGroup(
+            Text("a < 0: Opens downward (M-shape)", weight=BOLD, color=BLACK).scale(0.5)
+        )
+        callout_bg2 = RoundedRectangle(corner_radius=0.2, height=callout2.height+0.5, width=callout2.width+0.6)\
+            .set_stroke(width=1).set_fill(color=GREEN, opacity=0.7)
+        callout_group2 = VGroup(callout_bg2, callout2)
+        callout_group2.to_corner(UL)
+        self.play(Write(callout_group2))
         self.wait(2)
+
+        self.play(FadeOut(axes, quartic1, quartic2, eq1, eq2, callout_group20, callout_group2))
+
+
+# --------------------------------
+# 2: FINAL MESSAGE  → LAST
+# --------------------------------
+class FinalMessage(Scene):
+    def construct(self):
+        poly_def = VGroup(
+            Text("Polynomial - An equation formed with variables, exponents, and coefficients\n together with operations\n", font_size=22, weight=BOLD),
+            Text("\n*It must contain no square roots of variables, no fractional \nor negative powers on the variables, and no variables in the denominators of any fractions*", font_size=22).shift(DOWN*1.2)
+        )
+        self.play(Write(poly_def))
+        self.wait(6)

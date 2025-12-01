@@ -100,7 +100,7 @@ All finished high-quality videos are uploaded directly to this repository.
 
 **How to get them in 10 seconds:**
 
-1. Scroll down this page or click a math subject | e.g. `Algebra II/` folder  
+1. Scroll down this page or click a math subject | e.g. `Algebra II` folder  
 2. Open any subfolder [unit] | e.g. `Polynomials`, `Sequences`
 3. Open `media`  
 3. Open `videos` 

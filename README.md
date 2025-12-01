@@ -31,8 +31,6 @@ While visual tools are not a replacement for rigorous proof and problem-solving,
 - **Clean voice-over ready** → add your own narration or use silently  
 - Fully **open-source & customizable** → adapt to your curriculum, language, or pacing  
 
-https://github.com/user/YourRepoName/assets/123456789/abcdef12-3456-7890-abcd-ef1234567890
-
 ## Quick Start for Teachers (5 minutes)
 
 You don’t need to be a programmer! Here’s exactly what to do:

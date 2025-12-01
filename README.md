@@ -44,10 +44,9 @@ You don’t need to be a programmer! Here’s exactly what to do:
 brew install pyenv ffmpeg
 pyenv install 3.11
 pyenv global 3.11
-pip install manim! 
+pip install manim!
 
 ```
-
 
 **Windows (10 or 11)**
 ```bash
@@ -66,5 +65,32 @@ pip install manim!
 
 3. **Install Manim**  
    Open **Command Prompt** or **PowerShell** (doesn’t need admin) and run:
-   ```bash
    pip install manim
+
+```
+**Linux (Ubuntu/Debian & derivatives)**
+```bash
+sudo apt update
+sudo apt install -y python3 python3-pip python3-venv ffmpeg
+pip3 install --user --upgrade pip
+pip3 install manim
+
+```
+**Verify Installation (any OS)**
+```bash
+manim --version
+
+```
+**Download My Animations!**
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+cd YOUR_REPO_NAME
+
+```
+**Render any animation**
+# Low-quality preview (instant)
+manim -pql scenes/example_scene.py
+
+# High-quality final version (for class)
+manim -pqh scenes/example_scene.py
+```

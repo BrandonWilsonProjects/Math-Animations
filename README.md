@@ -10,7 +10,7 @@
 
 > **Concise • Engaging • Mathematically Accurate**
 
-A growing collection of **Manim-powered animations** specifically designed for high school mathematics. In an era where student attention spans are shrinking, these short (usually 15–90 second) animations deliver key concepts quickly and memorably—leaving more class time for discussion, practice, and deeper exploration.
+A growing collection of **Manim-powered animations** specifically designed for high school mathematics. In an era where student attention spans are shrinking, these short (usually 15–90 second) animations deliver key concepts quickly and memorably, leaving more class time for discussion, practice, and deeper exploration.
 
 While visual tools are not a replacement for rigorous proof and problem-solving, they serve as powerful **cognitive hooks** that help students grasp ideas instantly and build lasting intuition.
 
@@ -45,3 +45,23 @@ brew install pyenv ffmpeg
 pyenv install 3.11
 pyenv global 3.11
 pip install manim!
+
+**Windows (10 or 11)**
+
+1. **Install Python 3.11** (if you don’t already have it)  
+   → Download from https://www.python.org/downloads/release/python-31110/  
+   → Choose **Windows installer (64-bit)**  
+   → ⚡ **IMPORTANT**: check the box “Add Python 3.11 to PATH” before clicking Install
+
+2. **Install FFmpeg** (needed for video export) – easiest method:  
+   → Download the latest build from https://www.gyan.dev/ffmpeg/builds/  
+   → Click “ffmpeg-release-essentials.zip”  
+   → Extract the zip → copy the entire `bin` folder (inside the extracted folder) to `C:\ffmpeg\bin`  
+   → Add it to PATH:  
+      - Press `Win + X` → System → Advanced system settings → Environment Variables  
+      - Under “System variables” find `Path` → Edit → New → add `C:\ffmpeg\bin` → OK all windows
+
+3. **Install Manim**  
+   Open **Command Prompt** or **PowerShell** (doesn’t need admin) and run:
+   ```bash
+   pip install manim

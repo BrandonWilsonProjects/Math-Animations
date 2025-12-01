@@ -99,3 +99,21 @@ class MeanStdVisualization(Scene):
         title.to_edge(UP)
         self.play(FadeIn(title))
         self.wait(2)
+        
+        self.play(FadeOut(axes, x_label, y_label, xticks, yticks, bars, mean_label, mean_line, band, brace, brace_label, legend, title))
+
+        closing_intro = Text("The mean is the average of a dataset, calculated by summing all values and dividing by the count. \nThe standard deviation measures the typical spread or dispersion of data points around the mean", weight=BOLD, font_size=20)
+        
+        self.play(FadeIn(closing_intro))
+        self.wait(2)
+        
+        callout1 = VGroup(
+            Text("High SD - data points are more spread out over a wider range of values",weight=BOLD, color=BLACK, font_size=20),
+            Text("Low SD - most of the data points are close to the mean", weight=BOLD, color=BLACK, font_size=20).shift(DOWN*0.4)
+        )
+        callout_bg1 = RoundedRectangle(corner_radius=0.2, height=callout1.height+0.5, width=callout1.width+0.6)\
+            .set_stroke(width=1).set_fill(color=GOLD, opacity=0.8)
+        callout_group1 = VGroup(callout_bg1, callout1)
+        callout_group1.next_to(closing_intro, DOWN, buff=1.5)
+        self.play(Write(callout_group1))
+        self.wait(8)

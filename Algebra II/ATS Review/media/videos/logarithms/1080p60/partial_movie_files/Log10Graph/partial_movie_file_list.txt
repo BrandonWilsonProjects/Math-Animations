@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/3977891868_3269822764_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/2852726489_903084774_541002921.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/2852726489_1307439293_566499563.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/2852726489_3344897340_1628766908.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/2852726489_2844360058_649609797.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/2852726489_67717540_2873729818.mp4'
+file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/logarithms/1080p60/partial_movie_files/Log10Graph/2852726489_3394500337_210259938.mp4'

@@ -108,9 +108,6 @@ All finished high-quality videos are uploaded directly to this repository.
 3. Click the `.mp4` file you want 
 3. View Raw
 3. Enjoy! 
-4. Either:
-   - Click the **Download** button (top-right), or  
-   - Right-click the video → “Save video as…”  
 
 That’s it — ready to drop straight into PowerPoint, Google Slides, Nearpod, Canvas, etc.
 

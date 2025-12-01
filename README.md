@@ -93,7 +93,8 @@ manim -pql scenes/example_scene.py
 # High-quality final version (for class)
 manim -pqh scenes/example_scene.py
 ```
-## Don’t want to code or install anything? → Just watch or download the videos instantly
+## Don’t want to code or install anything? 
+→ Just watch or download the videos instantly
 
 All finished high-quality videos are uploaded directly to this repository.
 

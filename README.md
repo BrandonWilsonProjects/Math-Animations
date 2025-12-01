@@ -46,6 +46,8 @@ pyenv install 3.11
 pyenv global 3.11
 pip install manim!
 
+--------------------------------- 
+
 **Windows (10 or 11)**
 
 1. **Install Python 3.11** (if you don’t already have it)  

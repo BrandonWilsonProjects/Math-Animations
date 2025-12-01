@@ -100,9 +100,14 @@ All finished high-quality videos are uploaded directly to this repository.
 
 **How to get them in 10 seconds:**
 
-1. Scroll down this page or click the **`videos/` folder** (or `media/videos/` if you see it)  
-2. Open any subfolder (example: `quadratic_transformations`, `unit_circle`, etc.)  
-3. Click the `.mp4` file you want  
+1. Scroll down this page or click a math subject | e.g. **`Algebra II/` folder**  
+2. Open any subfolder [unit] | e.g. `Polynomials`, `Sequences`
+3. Open `media`  
+3. Open `videos` 
+3. Open video folders | e.g. `exponentialGrowthDecay/1080p60`, `logarithms/1080p60`  
+3. Click the `.mp4` file you want 
+3. View Raw
+3. Enjoy! 
 4. Either:
    - Click the **Download** button (top-right), or  
    - Right-click the video → “Save video as…”  

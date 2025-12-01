@@ -93,3 +93,22 @@ manim -pql scenes/example_scene.py
 # High-quality final version (for class)
 manim -pqh scenes/example_scene.py
 ```
+## Don’t want to code or install anything? → Just watch or download the videos instantly
+
+All finished high-quality videos are uploaded directly to this repository.
+
+**How to get them in 10 seconds:**
+
+1. Scroll down this page or click the **`videos/` folder** (or `media/videos/` if you see it)  
+2. Open any subfolder (example: `quadratic_transformations`, `unit_circle`, etc.)  
+3. Click the `.mp4` file you want  
+4. Either:
+   - Click the **Download** button (top-right), or  
+   - Right-click the video → “Save video as…”  
+
+That’s it — ready to drop straight into PowerPoint, Google Slides, Nearpod, Canvas, etc.
+
+New videos are added every week and always appear here immediately — no installation required!
+
+→ Direct link to all videos: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/main/videos
+(Bookmark this link if you use them often!)

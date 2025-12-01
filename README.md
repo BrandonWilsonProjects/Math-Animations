@@ -44,12 +44,10 @@ You don’t need to be a programmer! Here’s exactly what to do:
 brew install pyenv ffmpeg
 pyenv install 3.11
 pyenv global 3.11
-pip install manim!
-
---------------------------------- 
+pip install manim! 
 
 **Windows (10 or 11)**
-
+```bash
 1. **Install Python 3.11** (if you don’t already have it)  
    → Download from https://www.python.org/downloads/release/python-31110/  
    → Choose **Windows installer (64-bit)**  

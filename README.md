@@ -109,7 +109,4 @@ All finished high-quality videos are uploaded directly to this repository.
 
 That’s it — ready to drop straight into PowerPoint, Google Slides, Nearpod, Canvas, etc.
 
-New videos are added every week and always appear here immediately — no installation required!
-
-→ Direct link to all videos: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/main/videos
-(Bookmark this link if you use them often!)
+New videos are added here often and always appear here immediately — no installation required!

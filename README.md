@@ -83,11 +83,12 @@ manim --version
 ```
 **Download My Animations!**
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/BrandonWilsonProjects/Math-Animations.git
 cd YOUR_REPO_NAME
 
 ```
 **Render any animation**
+```bash
 # Low-quality preview (instant)
 manim -pql scenes/example_scene.py
 

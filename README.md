@@ -48,7 +48,7 @@ pip install manim!
 
 ```
 
-**Windows (10 or 11)**
+# **Windows (10 or 11)**
 ```bash
 1. **Install Python 3.11** (if you don’t already have it)  
    → Download from https://www.python.org/downloads/release/python-31110/  
@@ -68,7 +68,7 @@ pip install manim!
    pip install manim
 
 ```
-**Linux (Ubuntu/Debian & derivatives)**
+# **Linux (Ubuntu/Debian & derivatives)**
 ```bash
 sudo apt update
 sudo apt install -y python3 python3-pip python3-venv ffmpeg

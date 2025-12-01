@@ -39,7 +39,7 @@ You don’t need to be a programmer! Here’s exactly what to do:
 
 ### 1. Install Manim (one-time only)
 
-**MacOS**
+# **MacOS**
 ```bash
 brew install pyenv ffmpeg
 pyenv install 3.11

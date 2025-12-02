@@ -109,6 +109,6 @@ All finished high-quality videos are uploaded directly to this repository.
 3. View Raw
 3. Enjoy! 
 
-That’s it — ready to drop straight into PowerPoint, Google Slides, Nearpod, Canvas, etc.
+Use for PowerPoint, Google Slides, Nearpod, Canvas, etc.
 
-New videos are added here often and always appear here immediately — no installation required!
+New videos are added here often and always appear here immediately. 

@@ -1,0 +1,3 @@
+file 'QuadraticFormulaIntro.mp4'
+file 'ImperfectSquareExample.mp4'
+file 'VisualizeImperfectFactoring.mp4'

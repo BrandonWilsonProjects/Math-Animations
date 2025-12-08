@@ -2,9 +2,7 @@ from manim import *
 
 class LineSegmentAlways180(Scene):
     def construct(self):
-        # -----------------------------------
         # Line segment setup
-        # -----------------------------------
         start = LEFT * 2
         end = RIGHT * 2
         line = Line(start, end, color=BLUE)
@@ -19,9 +17,7 @@ class LineSegmentAlways180(Scene):
         self.play(FadeIn(A, B), Write(label_A), Write(label_B))
         self.wait(1)
 
-        # -----------------------------------
         # Angle marker (visual 180° arc)
-        # -----------------------------------
         vertex = ORIGIN
         line_left = Line(vertex, LEFT * 2, color=BLUE)
         line_right = Line(vertex, RIGHT * 2, color=BLUE)
@@ -32,9 +28,8 @@ class LineSegmentAlways180(Scene):
         self.play(Create(arc), Write(label_180))
         self.wait(2)
 
-        # -----------------------------------
+
         # Rotate line to show orientation doesn’t matter
-        # -----------------------------------
         rotation_group = VGroup(line, A, B, label_A, label_B, arc, label_180)
         self.play(Rotate(rotation_group, angle=PI/4, about_point=ORIGIN))
         self.play(Rotate(rotation_group, angle=-PI/2, about_point=ORIGIN))

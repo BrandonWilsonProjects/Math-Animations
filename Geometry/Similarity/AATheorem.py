@@ -4,9 +4,7 @@ import numpy as np
 class AngleAngleTheorem(Scene):
     """Complete demonstration of the Angle-Angle theorem for similar triangles"""
     def construct(self):
-        # =====================================================================
         # INTRO: Title Sequence
-        # =====================================================================
         title = Text("Angle-Angle Similarity Theorem", font_size=52, gradient=(BLUE, PURPLE))
         subtitle = Text("Two angles determine similar triangles", font_size=28, color=GRAY).next_to(title, DOWN)
         
@@ -15,9 +13,7 @@ class AngleAngleTheorem(Scene):
         self.wait(1.5)
         self.play(FadeOut(title), FadeOut(subtitle))
         
-        # =====================================================================
         # PART 1: INTRODUCE THE FIRST TRIANGLE
-        # =====================================================================
         section1_title = Text("Triangle ABC", font_size=36, color=YELLOW).to_edge(UP)
         self.play(Write(section1_title))
         self.wait(0.5)
@@ -38,9 +34,7 @@ class AngleAngleTheorem(Scene):
         self.play(Write(label_A1), Write(label_B1), Write(label_C1))
         self.wait(1)
         
-        # =====================================================================
         # PART 2: HIGHLIGHT ANGLE A
-        # =====================================================================
         angle_a_text = Text("Angle A", font_size=28, color=GREEN).to_corner(UL)
         self.play(Write(angle_a_text))
         
@@ -56,9 +50,7 @@ class AngleAngleTheorem(Scene):
         self.play(Create(angle_A_arc), Write(angle_A_measure))
         self.wait(1)
         
-        # =====================================================================
         # PART 3: HIGHLIGHT ANGLE B
-        # =====================================================================
         angle_b_text = Text("Angle B", font_size=28, color=ORANGE).to_corner(UL)
         self.play(Transform(angle_a_text, angle_b_text))
         
@@ -74,9 +66,7 @@ class AngleAngleTheorem(Scene):
         self.play(Create(angle_B_arc), Write(angle_B_measure))
         self.wait(1.5)
         
-        # =====================================================================
         # PART 4: INTRODUCE THE SECOND TRIANGLE
-        # =====================================================================
         section2_title = Text("Triangle DEF", font_size=36, color=YELLOW).to_edge(UP)
         self.play(
             FadeOut(angle_a_text),
@@ -102,9 +92,7 @@ class AngleAngleTheorem(Scene):
         self.play(Write(label_D2), Write(label_E2), Write(label_F2))
         self.wait(1)
         
-        # =====================================================================
         # PART 5: SHOW MATCHING ANGLES IN SECOND TRIANGLE
-        # =====================================================================
         angle_d_text = Text("Angle D = Angle A", font_size=28, color=GREEN).to_corner(UL)
         self.play(Write(angle_d_text))
         
@@ -135,9 +123,7 @@ class AngleAngleTheorem(Scene):
         self.play(Create(angle_E_arc), Write(angle_E_measure))
         self.wait(1.5)
         
-        # =====================================================================
         # PART 6: BRING TRIANGLES TOGETHER FOR COMPARISON
-        # =====================================================================
         comparison_text = Text("Comparing the triangles", font_size=32, color=YELLOW).to_edge(UP)
         self.play(
             FadeOut(angle_d_text),
@@ -157,9 +143,7 @@ class AngleAngleTheorem(Scene):
         )
         self.wait(1)
         
-        # =====================================================================
         # PART 7: OVERLAY TRIANGLES TO SHOW SIMILARITY
-        # =====================================================================
         overlay_text = Text("Overlaying the triangles", font_size=32, color=YELLOW).to_edge(UP)
         self.play(Transform(section1_title, overlay_text))
         
@@ -192,9 +176,8 @@ class AngleAngleTheorem(Scene):
             run_time=0.5
         )
         self.wait(1)
-        # =====================================================================
+        
         # PART 8: SHOW PROPORTIONAL SIDES
-        # =====================================================================
         self.play(FadeOut(triangle1_scaled))
         
         proportions_text = Text("Sides are proportional", font_size=32, color=YELLOW).to_edge(UP)
@@ -233,9 +216,7 @@ class AngleAngleTheorem(Scene):
         )
         self.wait(2)
         
-        # =====================================================================
         # PART 9: STATE THE THEOREM
-        # =====================================================================
         self.play(
             *[FadeOut(mob) for mob in [
                 triangle1_group, triangle2_group, 
@@ -260,9 +241,8 @@ class AngleAngleTheorem(Scene):
         self.wait(2)
         
         self.play(FadeOut(theorem_statement))
-        # =====================================================================
+        
         # FINALE
-        # =====================================================================        
         finale_text = VGroup(
             Text("AA Theorem:", font_size=44, color=BLUE),
             Text("Two Angles Determine Similarity", font_size=36, gradient=(PURPLE, PINK))

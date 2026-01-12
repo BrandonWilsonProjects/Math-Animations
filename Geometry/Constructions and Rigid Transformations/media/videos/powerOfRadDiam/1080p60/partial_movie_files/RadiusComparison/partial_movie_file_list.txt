@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2257293077_2353814473_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_1714597861_2734954939.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_2844360058_3807419257.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_1252648210_2153379641.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_2653811957_3886299013.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_2844360058_3778937141.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_1667779258_1394823676.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_2844360058_2743596736.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_3626692364_4221066729.mp4'
+file 'file:F:/MathAnimations/Geometry/Constructions and Rigid Transformations/media/videos/powerOfRadDiam/1080p60/partial_movie_files/RadiusComparison/2135761390_2629323269_41983331.mp4'

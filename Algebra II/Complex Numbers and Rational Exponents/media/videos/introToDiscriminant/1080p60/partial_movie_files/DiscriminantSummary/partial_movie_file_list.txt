@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2257293077_674422954_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2135761390_3460718089_726452663.mp4'
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2135761390_2834709167_1365391689.mp4'
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2135761390_1475234608_2619106913.mp4'
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2135761390_2834709167_172294798.mp4'
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2135761390_3499513595_2474965432.mp4'
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2135761390_2834709167_242806568.mp4'
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2135761390_1948360448_648791247.mp4'
+file 'file:F:/MathAnimations/Algebra II/Complex Numbers and Rational Exponents/media/videos/introToDiscriminant/1080p60/partial_movie_files/DiscriminantSummary/2135761390_2552855209_1511553834.mp4'

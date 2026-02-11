@@ -14,7 +14,7 @@ class RightTriangleTrigIntro(Scene):
             Text("In a right triangle, which ratios stay the same", font_size=28),
             Text("when the triangle gets bigger?", font_size=28)
         ).arrange(DOWN, aligned_edge=LEFT)
-        question.next_to(title, DOWN, buff=0.5)
+        question.to_edge(UP, buff=0.5)
         self.play(FadeIn(question))
         self.wait(2)
         
@@ -48,7 +48,7 @@ class RightTriangleTrigIntro(Scene):
         self.wait(2)
         
         # Fade out measurements before transforming triangle
-        self.play(FadeOut(measurements1), FadeOut(ratios1))
+        self.play(FadeOut(measurements1), FadeOut(ratios1), FadeOut(labels1))
         self.wait(0.5)
         
         # Now create a larger similar triangle
@@ -64,29 +64,31 @@ class RightTriangleTrigIntro(Scene):
         # Transform to larger triangle
         self.play(
             Transform(triangle1, triangle2),
-            Transform(labels1, labels2),
             run_time=2
         )
+        self.wait(0.5)
+        self.play(Write(labels2))
         self.wait(1)
         
         # Show both measurements and ratios side by side
-        measurements1_new, ratios1_new = self.create_measurements(base1, height1, hyp1, triangle1, "Small Triangle")
-        measurements1_new.to_edge(RIGHT).shift(UP * 1.5)
-        ratios1_new.to_edge(LEFT).shift(UP * 1.5)
+        # Recreate measurements for small triangle
+        measurements1_display, ratios1_display = self.create_measurements(base1, height1, hyp1, None, "Small Triangle")
+        measurements1_display.to_corner(DR).shift(LEFT * 7)
+        ratios1_display.to_edge(LEFT).shift(UP * 1.5)
         
+        # Create measurements for large triangle
         hyp2 = np.sqrt(base2**2 + height2**2)
-        measurements2, ratios2 = self.create_measurements(base2, height2, hyp2, triangle2, "Large Triangle")
-        measurements2.to_edge(RIGHT).shift(DOWN * 0.5)
-        ratios2.to_edge(LEFT).shift(DOWN * 0.5)
+        measurements2, ratios2 = self.create_measurements(base2, height2, hyp2, None, "Large Triangle")
+        measurements2.to_corner(DR)
         
-        self.play(FadeIn(measurements1_new), FadeIn(ratios1_new))
+        self.play(FadeIn(measurements1_display), FadeIn(ratios1_display))
         self.wait(1)
-        self.play(FadeIn(measurements2), FadeIn(ratios2))
+        self.play(FadeIn(measurements2))
         self.wait(2)
         
         # Highlight the ratios section
         ratio_highlight = SurroundingRectangle(
-            VGroup(ratios1_new, ratios2),
+            VGroup(ratios1_display, ratios2),
             color=RED,
             stroke_width=4,
             buff=0.3
@@ -100,7 +102,7 @@ class RightTriangleTrigIntro(Scene):
             Text("The RATIOS stay the same!", font_size=36, color=YELLOW),
             Text("The LENGTHS change!", font_size=30, color=WHITE)
         ).arrange(DOWN, buff=0.3)
-        revelation.move_to(ORIGIN)
+        revelation.move_to(ORIGIN + RIGHT * 1)
         
         self.play(Write(revelation))
         self.wait(3)
@@ -108,14 +110,12 @@ class RightTriangleTrigIntro(Scene):
         # Fade everything out
         self.play(
             FadeOut(triangle1),
-            FadeOut(labels1),
-            FadeOut(measurements1_new),
-            FadeOut(ratios1_new),
+            FadeOut(labels2),
+            FadeOut(measurements1_display),
+            FadeOut(ratios1_display),
             FadeOut(measurements2),
-            FadeOut(ratios2),
             FadeOut(ratio_highlight),
-            FadeOut(revelation),
-            FadeOut(title)
+            FadeOut(revelation)
         )
         self.wait(0.5)
         
@@ -129,6 +129,7 @@ class RightTriangleTrigIntro(Scene):
         ]
         
         concept = VGroup(*concept_lines).arrange(DOWN, aligned_edge=LEFT, buff=0.4)
+        concept.move_to(ORIGIN)
         
         # Show first line
         self.play(Write(concept_lines[0]))
@@ -153,11 +154,11 @@ class RightTriangleTrigIntro(Scene):
         B = RIGHT * base
         C = UP * height
         
-        triangle = Polygon(A, B, C, color=color, stroke_width=3)
+        triangle = Polygon(A, B, C, color=color, stroke_width=3, fill_opacity=0)
         
         # Add right angle marker at point A (origin) where the right angle is
         square_size = 0.3
-        right_angle = Square(side_length=square_size, color=color, stroke_width=2)
+        right_angle = Square(side_length=square_size, color=color, stroke_width=2, fill_opacity=0)
         right_angle.move_to(A + RIGHT * square_size/2 + UP * square_size/2)
         
         return VGroup(triangle, right_angle)
@@ -172,7 +173,7 @@ class RightTriangleTrigIntro(Scene):
         base_label.next_to(
             Line(vertices[0], vertices[1]).get_center(),
             DOWN,
-            buff=0.2
+            buff=0.3
         )
         
         # Height label
@@ -180,7 +181,7 @@ class RightTriangleTrigIntro(Scene):
         height_label.next_to(
             Line(vertices[2], vertices[0]).get_center(),
             LEFT,
-            buff=0.2
+            buff=0.3
         )
         
         # Hypotenuse label
@@ -188,9 +189,9 @@ class RightTriangleTrigIntro(Scene):
         hyp_label = MathTex(f"\\text{{hyp}} = {hyp:.1f}", font_size=24)
         hyp_label.next_to(
             Line(vertices[1], vertices[2]).get_center(),
-            RIGHT,
+            UR,
             buff=0.2
-        ).shift(UP * 0.1)
+        )
         
         return VGroup(base_label, height_label, hyp_label)
     
@@ -210,9 +211,9 @@ class RightTriangleTrigIntro(Scene):
         # Ratios box (on the left)
         ratios = VGroup(
             Text("Ratios:", font_size=24, weight=BOLD, color=YELLOW),
-            Text(f"height ÷ base = {height/base:.2f}", font_size=22, color=YELLOW),
-            Text(f"height ÷ hyp = {height/hyp:.2f}", font_size=22, color=YELLOW),
-            Text(f"base ÷ hyp = {base/hyp:.2f}", font_size=22, color=YELLOW),
+            MathTex(f"\\frac{{\\text{{height}}}}{{\\text{{base}}}} = {height/base:.2f}", font_size=22, color=YELLOW),
+            MathTex(f"\\frac{{\\text{{height}}}}{{\\text{{hyp}}}} = {height/hyp:.2f}", font_size=22, color=YELLOW),
+            MathTex(f"\\frac{{\\text{{base}}}}{{\\text{{hyp}}}} = {base/hyp:.2f}", font_size=22, color=YELLOW),
         ).arrange(DOWN, aligned_edge=LEFT, buff=0.15)
         
         ratios_box = SurroundingRectangle(ratios, color=YELLOW, buff=0.2)

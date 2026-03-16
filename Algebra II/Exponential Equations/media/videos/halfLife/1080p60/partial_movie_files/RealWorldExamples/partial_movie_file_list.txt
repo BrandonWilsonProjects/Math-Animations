@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations/media/videos/halfLife/1080p60/partial_movie_files/RealWorldExamples/4053757538_3026886909_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations/media/videos/halfLife/1080p60/partial_movie_files/RealWorldExamples/3808633226_1611621302_1310570624.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations/media/videos/halfLife/1080p60/partial_movie_files/RealWorldExamples/3808633226_2668315950_3986262936.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations/media/videos/halfLife/1080p60/partial_movie_files/RealWorldExamples/3808633226_3114850635_2502175304.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations/media/videos/halfLife/1080p60/partial_movie_files/RealWorldExamples/3808633226_3394500337_1322156261.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations/media/videos/halfLife/1080p60/partial_movie_files/RealWorldExamples/3808633226_1232647478_3976832417.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations/media/videos/halfLife/1080p60/partial_movie_files/RealWorldExamples/3808633226_3484913905_45404606.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations/media/videos/halfLife/1080p60/partial_movie_files/RealWorldExamples/3808633226_3366185305_2358810818.mp4'

@@ -1,0 +1,8 @@
+file 'TitleScene.mp4'
+file 'ExponentialFormula.mp4'
+file 'HalfLifeDefinition.mp4'
+file 'DecayCurveScene.mp4'
+file 'MultipleHalfLives.mp4'
+file 'CompareHalfLives.mp4'
+file 'RealWorldExamples.mp4'
+file 'OutroScene.mp4'

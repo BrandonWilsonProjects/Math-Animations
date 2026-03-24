@@ -126,18 +126,19 @@ class ScaleVolumeRelationship(ThreeDScene):
 
         # k¹  – length scale factor (green)
         curve_k1 = ax.plot(lambda x: x,      color=GREEN,  x_range=[0, 4])
-        lbl_k1   = MathTex("k", color=GREEN, font_size=28)
-        lbl_k1.next_to(ax.i2gp(3.8, curve_k1), RIGHT, buff=0.15)
+        lbl_k1   = MathTex("k", color=GREEN, font_size=38)
+        lbl_k1.next_to(ax.i2gp(3.8, curve_k1), RIGHT * 1.5, buff=1.2)
 
         # k²  – area scale factor (orange)
         curve_k2 = ax.plot(lambda x: x**2,   color=ORANGE, x_range=[0, 4])
-        lbl_k2   = MathTex("k^2", color=ORANGE, font_size=28)
-        lbl_k2.next_to(ax.i2gp(3.8, curve_k2), RIGHT, buff=0.15)
+        lbl_k2   = MathTex("k^2", color=ORANGE, font_size=38)
+        lbl_k2.next_to(ax.i2gp(3.8, curve_k2), RIGHT * 1.5, buff=1.2)
 
         # k³  – volume scale factor (red)
         curve_k3 = ax.plot(lambda x: x**3,   color=RED,    x_range=[0, 4])
-        lbl_k3   = MathTex("k^3", color=RED, font_size=28)
-        lbl_k3.next_to(ax.i2gp(2.5, curve_k3), RIGHT, buff=0.15)
+        lbl_k3   = MathTex("k^3", color=RED, font_size=38)
+        lbl_k3.next_to(ax.i2gp(2.5, curve_k3), RIGHT * 1.5, buff=1.2)
+        lbl_k3.shift(UP * 0.4)
 
         self.play(Create(curve_k1), Write(lbl_k1), run_time=1)
         self.wait(0.4)

@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/3544663784_2311175175_223132457.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_1666644502_672407006.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_4217992463_1886958830.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_3598021980_1733719226.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_2234564061_3736718112.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_3381926567_3464819989.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_754156035_2298942507.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_2724330070_2259096316.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_2844360058_1391854349.mp4'
+file 'file:F:/MathAnimations/Algebra II/Exponential Equations & Logs/media/videos/mechanicsOfLogs/1080p60/partial_movie_files/S01_Intro/260329756_3539647398_554207670.mp4'

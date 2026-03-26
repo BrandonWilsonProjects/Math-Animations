@@ -335,7 +335,7 @@ class CylinderVsConeScene(Scene):
 # Scene 4 — Formal Statement
 # ══════════════════════════════════════════════════════════════════════════
 class FormalStatement(Scene):
-    def show_parameter_effect(self):
+    def construct(self):
 
         # ── 1. Title ──────────────────────────────────────────────────────────
         header = Text("How r and h affect Volume", font_size=34, color=RED_B)\

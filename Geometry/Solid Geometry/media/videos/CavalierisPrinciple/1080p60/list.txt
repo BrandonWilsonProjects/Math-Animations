@@ -1,0 +1,4 @@
+file 'CoinStackIntuition.mp4'
+file 'CrossSectionScene.mp4'
+file 'CylinderVsConeScene.mp4'
+file 'FormalStatement.mp4'

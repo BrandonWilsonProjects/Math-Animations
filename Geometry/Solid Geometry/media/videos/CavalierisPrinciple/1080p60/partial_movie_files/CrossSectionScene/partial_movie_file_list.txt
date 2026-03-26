@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CrossSectionScene/3544663784_1288450282_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CrossSectionScene/260329756_4037695971_141395425.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CrossSectionScene/260329756_1345272740_2569041995.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CrossSectionScene/260329756_4166255497_3024908360.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CrossSectionScene/260329756_9649089_2286873544.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CrossSectionScene/260329756_315132986_392573856.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CrossSectionScene/260329756_3412121791_2215538779.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CrossSectionScene/260329756_4166255497_3020727573.mp4'

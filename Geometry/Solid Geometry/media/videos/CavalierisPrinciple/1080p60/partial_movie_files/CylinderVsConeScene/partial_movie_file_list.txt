@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/3544663784_1291182487_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/260329756_431008903_3644360837.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/260329756_2008156131_92620741.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/260329756_4166255497_1338715309.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/260329756_865977261_3905146800.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/260329756_2480615955_4224286656.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/260329756_2136780323_2801115672.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/260329756_230408241_2704841159.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/CylinderVsConeScene/260329756_1588159973_1596879025.mp4'

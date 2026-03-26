@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/3544663784_2771496714_223132457.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/260329756_1453587867_2159852736.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/260329756_3252229279_2249035104.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/260329756_16100851_3446025955.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/260329756_975575874_330523391.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/260329756_2136780323_1507946227.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/260329756_17937820_407832725.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/260329756_3484913905_4181548662.mp4'
+file 'file:F:/MathAnimations/Geometry/Solid Geometry/media/videos/CavalierisPrinciple/1080p60/partial_movie_files/FormalStatement/260329756_1672863870_2358810818.mp4'

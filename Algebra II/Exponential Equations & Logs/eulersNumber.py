@@ -1,14 +1,3 @@
-"""
-Euler's Number & Day Trading — Manim Script (NO LaTeX version)
-==============================================================
-Zero LaTeX required. Uses only Text() with Unicode math symbols.
-
-Render commands:
-    manim -pql eulers_number.py EulersNumber
-    manim -pql eulers_number.py DayTradingExample
-    manim -pqh eulers_number.py FullPresentation
-"""
-
 from manim import *
 import numpy as np
 
@@ -63,7 +52,6 @@ class EulersNumber(Scene):
 
         data = [
             ("1",          1.00000),
-            ("2",          2.25000),
             ("5",          2.48832),
             ("10",         2.59374),
             ("100",        2.70481),
@@ -118,7 +106,7 @@ class EulersNumber(Scene):
             prows.append(row)
             prev = row
 
-        self.wait(6)
+        self.wait(14)
         self.play(*[FadeOut(m) for m in [sec2, line1, line2, note] + prows])
 
         # ── 3. Self-derivative graph ──────────────────────────────────────
@@ -129,7 +117,7 @@ class EulersNumber(Scene):
         self.play(FadeOut(sec3))
 
         prop = math_text("d/dx ( e^x )  =  e^x", font_size=46, color=E_COLOR)
-        prop.next_to(sec3, DOWN, buff=0.4)
+        prop.to_edge(UP, buff=0.4)
         self.play(Write(prop))
         self.wait(0.6)
 
@@ -153,12 +141,12 @@ class EulersNumber(Scene):
                             color=AMBER, stroke_width=2.5)
         dot   = Dot(axes.c2p(x0, y0), color=AMBER)
         t_lbl = Text("slope = e  (equals the function!)", font_size=20, color=AMBER)
-        t_lbl.next_to(dot, UR, buff=0.7)
+        t_lbl.next_to(dot, UR, buff=3)
 
         self.play(Create(tangent), FadeIn(dot), Write(t_lbl))
         self.wait(2.5)
         self.play(*[FadeOut(m) for m in
-                    [sec3, prop, axes, curve, c_lbl, tangent, dot, t_lbl]])
+                    [prop, axes, curve, c_lbl, tangent, dot, t_lbl]])
 
         # ── 4. Key properties ─────────────────────────────────────────────
         sec4 = Text("4 \u2014 Key Properties of e", font_size=34, color=AMBER)
@@ -175,7 +163,7 @@ class EulersNumber(Scene):
         )
         props.next_to(sec4, DOWN, buff=0.5)
         self.play(FadeIn(props, shift=UP * 0.3))
-        self.wait(3)
+        self.wait(6)
         self.play(FadeOut(sec4), FadeOut(props))
 
         end = Text("e  =  2.71828\u2026", font_size=64, color=E_COLOR)

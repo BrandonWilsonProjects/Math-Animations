@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/3544663784_3362087864_223132457.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_1432596116_2361452578.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_4217089223_823782572.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_1432596116_1573033086.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_241288223_2691137872.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_1432596116_3708915406.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_3529303897_1738689683.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_1432596116_2642991122.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_3340611752_3399853802.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_1432596116_4122093850.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_3967702141_2011527587.mp4'
+file 'file:F:/Math-Animations/Geometry/Algebra 1 Review/media/videos/oneVariableEq2/1080p60/partial_movie_files/SolveEquationTextOnly/260329756_2872842549_2632458912.mp4'

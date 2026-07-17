@@ -1,7 +1,7 @@
 # This file is used internally by FFMPEG.
-file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/3529212410_2534330868_223132457.mp4'
-file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/3040924799_2906571640_4247590131.mp4'
-file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/3040924799_499857399_2570315624.mp4'
-file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/3040924799_3394500337_201898626.mp4'
-file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/3040924799_510284421_2917348262.mp4'
-file 'file:F:/MathAnimations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/3040924799_4217992463_3274290985.mp4'
+file 'file:C:/Users/branz/Documents/GitHub/Math-Animations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/3544663784_64750733_223132457.mp4'
+file 'file:C:/Users/branz/Documents/GitHub/Math-Animations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/260329756_3112973820_2599054808.mp4'
+file 'file:C:/Users/branz/Documents/GitHub/Math-Animations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/260329756_921523037_4198463401.mp4'
+file 'file:C:/Users/branz/Documents/GitHub/Math-Animations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/260329756_2574473371_3720150333.mp4'
+file 'file:C:/Users/branz/Documents/GitHub/Math-Animations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/260329756_2696302402_1715128138.mp4'
+file 'file:C:/Users/branz/Documents/GitHub/Math-Animations/Algebra II/ATS Review/media/videos/polynomialIntro/1080p60/partial_movie_files/QuadraticAValue/260329756_1432596116_657133594.mp4'
